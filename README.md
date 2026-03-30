@@ -49,7 +49,7 @@ Take the quiz here: [Click to open](https://docs.google.com/forms/d/e/1FAIpQLSfP
 ---
 
 ## Repository Structure
-
+```
 digital-literacy-project/
 ├── README.md
 ├── report/
@@ -71,4 +71,5 @@ digital-literacy-project/
 └── task-5-cybercrime/
     ├── casestudy.md
     └── prevention-checklist.md
+```
 
